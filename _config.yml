@@ -1,6 +1,6 @@
 # Site settings
-title: "卢泽丰 | Zefeng Lu"
-description: "广州大学副教授，研究方向包括人工智能安全、多模态学习、计算机视觉与智能交通。"
+title: "Zefeng Lu | Academic Homepage"
+description: "Associate Professor at Guangzhou University. Research in AI security, multimodal learning, computer vision, and intelligent transportation."
 description_en: "Associate Professor at Guangzhou University. Research in AI security, multimodal learning, computer vision, and intelligent transportation."
 repository: "ZefengLU-GZHU/zefenglu-gzhu.github.io"
 google_scholar_stats_use_cdn: false
@@ -12,14 +12,14 @@ baidu_site_verification:
 
 author:
   name: "卢泽丰"
-  name_en: "Zefeng Lu"
+  name_en: "Zefeng Lu (卢泽丰)"
   avatar: "images/zefeng-lu.png"
   bio: "广州大学副教授"
   bio_en: "Associate Professor, Guangzhou University"
   location: "广州，中国"
   location_en: "Guangzhou, China"
   employer:
-  googlescholar: "https://scholar.google.com/citations?user=wn7Q6h0AAAAJ&hl=zh-CN&view_op=list_works&sortby=pubdate"
+  googlescholar: "https://scholar.google.com/citations?user=wn7Q6h0AAAAJ&hl=en&view_op=list_works&sortby=pubdate"
   email: "luzefeng@gzhu.edu.cn"
   github: "ZefengLU-GZHU"
   dblp: "https://dblp.org/pid/230/0601"
