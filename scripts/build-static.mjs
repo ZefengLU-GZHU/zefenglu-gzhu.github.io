@@ -20,7 +20,7 @@ export default {
   async fetch(request) {
     const url=new URL(request.url);
     if(url.pathname==="/"||url.pathname==="/index.html"){
-      return new Response(HTML,{headers:{...headers,"content-type":"text/html; charset=utf-8","cache-control":"public, max-age=300"}});
+      return new Response(HTML,{headers:{...headers,"content-type":"text/html; charset=utf-8","cache-control":"no-store, no-cache, must-revalidate","pragma":"no-cache","expires":"0"}});
     }
     if(url.pathname==="/styles.css"){
       return new Response(CSS,{headers:{...headers,"content-type":"text/css; charset=utf-8","cache-control":"public, max-age=3600"}});
