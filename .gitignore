@@ -1,44 +1,21 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
-
-# testing
-/coverage
-
-# next.js
-/.next/
-/.vinext/
-/out/
-
-# misc
+_site/
+push.sh
 .DS_Store
-*.pem
 
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-*.stdout.log
-*.stderr.log
-
-# env files (can opt-in for committing if needed)
-.env*
-
-# vercel
-.vercel
-
-# typescript
-next-env.d.ts
-/dist/
-/.wrangler/
-/outputs/
-/work/
+# Local workspace files that are not part of the Jekyll site
+模板/
+node_modules/
+dist/
+build/
+out/
+outputs/
+app/
+.next/
+.openai/
+*.log
+academic_profile*.*
+/zefeng-lu.png
+favicon.svg
+package-lock.json
+package.json
+tsconfig.json

@@ -1,0 +1,133 @@
+# Site settings
+title: "卢泽丰 | Zefeng Lu"
+description: "广州大学副教授，研究方向包括人工智能安全、多模态学习、计算机视觉与智能交通。"
+description_en: "Associate Professor at Guangzhou University. Research in AI security, multimodal learning, computer vision, and intelligent transportation."
+repository: "ZefengLU-GZHU/zefenglu-gzhu.github.io"
+google_scholar_stats_use_cdn: false
+
+google_analytics_id:
+google_site_verification:
+bing_site_verification:
+baidu_site_verification:
+
+author:
+  name: "卢泽丰"
+  name_en: "Zefeng Lu"
+  avatar: "images/zefeng-lu.png"
+  bio: "广州大学副教授"
+  bio_en: "Associate Professor, Guangzhou University"
+  location: "广州，中国"
+  location_en: "Guangzhou, China"
+  employer:
+  googlescholar: "https://scholar.google.com/citations?user=wn7Q6h0AAAAJ&hl=zh-CN&view_op=list_works&sortby=pubdate"
+  email: "luzefeng@gzhu.edu.cn"
+  github: "ZefengLU-GZHU"
+  dblp: "https://dblp.org/pid/230/0601"
+  orcid:
+
+include:
+  - .htaccess
+  - _pages
+  - files
+
+exclude:
+  - docs
+  - google_scholar_crawler
+  - 模板
+  - app
+  - build
+  - db
+  - dist
+  - drizzle
+  - examples
+  - node_modules
+  - outputs
+  - public
+  - scripts
+  - tests
+  - worker
+  - "*.log"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .github
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - drizzle.config.ts
+  - eslint.config.mjs
+  - next.config.ts
+  - package-lock.json
+  - package.json
+  - postcss.config.mjs
+  - run_server.sh
+  - styles.css
+  - tsconfig.json
+  - vite.config.ts
+  - zefeng-lu.png
+  - favicon.svg
+
+keep_files:
+  - .git
+  - .svn
+
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:categories/:title/
+timezone: Asia/Shanghai
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
