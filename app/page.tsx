@@ -265,7 +265,7 @@ export default function Home() {
             </a>
             <a
               className="button secondary"
-              href="https://scholar.google.com/citations?user=ar23Gp8AAAAJ"
+              href="https://scholar.google.com/citations?user=wn7Q6h0AAAAJ&hl"
               target="_blank"
               rel="noreferrer"
             >
@@ -341,7 +341,7 @@ export default function Home() {
         </div>
         <a
           className="text-link"
-          href="https://scholar.google.com/citations?user=ar23Gp8AAAAJ&view_op=list_works&sortby=pubdate"
+          href="https://scholar.google.com/citations?user=wn7Q6h0AAAAJ&hl&view_op=list_works&sortby=pubdate"
           target="_blank"
           rel="noreferrer"
         >
@@ -383,7 +383,7 @@ export default function Home() {
         </div>
         <div className="footer-links">
           <a href="mailto:luzefeng@gzhu.edu.cn">Email</a>
-          <a href="https://scholar.google.com/citations?user=ar23Gp8AAAAJ" target="_blank" rel="noreferrer">Scholar</a>
+          <a href="https://scholar.google.com/citations?user=wn7Q6h0AAAAJ&hl" target="_blank" rel="noreferrer">Scholar</a>
           <a href="https://wyy.gzhu.edu.cn/info/1160/4383.htm" target="_blank" rel="noreferrer">{t.source}</a>
         </div>
         <p className="copyright">© {new Date().getFullYear()} Zefeng Lu</p>
