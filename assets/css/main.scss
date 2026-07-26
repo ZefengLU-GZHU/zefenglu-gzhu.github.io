@@ -129,6 +129,7 @@ body.lang-zh .lang-en {
 }
 
 .language-toggle {
+  display: inline-block;
   margin-left: 0.75rem;
   padding: 0.42rem 0.72rem;
   border: 1px solid var(--line);
