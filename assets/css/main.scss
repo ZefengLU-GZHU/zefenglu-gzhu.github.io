@@ -666,6 +666,16 @@ body.lang-zh .paper-placeholder::after {
   font-weight: 600;
 }
 
+.news-emoji {
+  display: inline-flex;
+  width: 1.5em;
+  justify-content: center;
+  margin: 0 0.08rem;
+  font-size: 1.02em;
+  font-style: normal;
+  vertical-align: -0.05em;
+}
+
 .news-list a {
   text-decoration: underline;
   text-decoration-thickness: 1px;
