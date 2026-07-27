@@ -464,6 +464,42 @@ body.lang-zh .paper-placeholder::after {
   font-weight: 700;
 }
 
+.paper-labels {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+  margin-bottom: 0.45rem;
+}
+
+.paper-labels .badge,
+.paper-labels .paper-rank {
+  margin: 0;
+}
+
+.paper-rank {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  border: 1px solid #d7e3df;
+  border-radius: 999px;
+  background: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.paper-rank-ccf {
+  color: #a34a35;
+  border-color: #efcabe;
+  background: #fff8f5;
+}
+
+.paper-rank-jcr {
+  color: #42648a;
+  border-color: #c8d9ea;
+  background: #f5f9fd;
+}
+
 .paper-link {
   display: inline-flex;
   align-items: center;

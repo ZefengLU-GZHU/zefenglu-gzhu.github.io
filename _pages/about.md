@@ -77,7 +77,7 @@ redirect_from:
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge">IEEE TIFS 2026</div>
+<div class="paper-labels"><span class="badge">IEEE TIFS 2026</span><span class="paper-rank paper-rank-ccf">CCF-A</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
 [Weakly Supervised Learning Meets VIS-NIR Re-Identification: Progressive Cross-Modality Alignment for Representation Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:0EnyYjriUFMC)
 
@@ -90,11 +90,11 @@ redirect_from:
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge"><span class="lang-zh">近期成果 2026</span><span class="lang-en">Recent Work 2026</span></div>
+<div class="paper-labels"><span class="badge">IEEE TVT 2026</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
 [Causally-Aware Hierarchical Graph Neural Networks for Robust Trajectory Prediction](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:hqOjcs7Dif8C)
 
-**Zefeng Lu** et al.
+Yue Yuan, Ying Wang, **Zefeng Lu**, Feng Shen, Zhiheng Zhao, George Q. Huang
 
 <span class="paper-topic">Graph Neural Network</span> <span class="paper-topic">Trajectory Prediction</span>
 </div>
@@ -118,7 +118,7 @@ redirect_from:
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge">IEEE TIFS 2025</div>
+<div class="paper-labels"><span class="badge">IEEE TIFS 2025</span><span class="paper-rank paper-rank-ccf">CCF-A</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
 [Prompt-guided Transformer and MLLM Interactive Learning for Text-Based Pedestrian Search](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:_FxGoFyzp5QC)
 
@@ -131,7 +131,7 @@ redirect_from:
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge">IEEE TNNLS 2025</div>
+<div class="paper-labels"><span class="badge">IEEE TNNLS 2025</span><span class="paper-rank paper-rank-ccf">CCF-B</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
 [Disentangling Modality and Posture Factors: Memory-Attention and Orthogonal Decomposition for Visible-Infrared Person Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:YsMSGLbcyi4C)
 
@@ -144,7 +144,7 @@ redirect_from:
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge"><span class="lang-zh">会议论文 2025</span><span class="lang-en">Conference 2025</span></div>
+<div class="badge">2025 ICCBD+ AI</div>
 
 [Test-Time Adversarial Defense for Robust CLIP-driven Text-Based Person Search](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:UebtZRa9Y70C)
 
@@ -157,11 +157,11 @@ Jiaqi Feng, Yucheng Tao, Junlan Huang, Xiyu Chen, **Zefeng Lu**, Hui Lu
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge"><span class="lang-zh">会议论文 2025</span><span class="lang-en">Conference 2025</span></div>
+<div class="paper-labels"><span class="badge">2025 IEEE DSC</span><span class="paper-rank paper-rank-ccf">CCF-C</span></div>
 
 [The Pursuer of Light: Exploration and Evolution of DAST Technology in XSS Vulnerability Detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:Se3iqnhoufwC)
 
-Youpeng Li, **Zefeng Lu**, Zhigang Wang et al.
+Youpeng Li, **Zefeng Lu**, Zhigang Wang, Yanli Chen, Yuyu He, Hui Lu
 
 <span class="paper-topic">DAST</span> <span class="paper-topic">XSS Detection</span>
 </div>
@@ -170,11 +170,11 @@ Youpeng Li, **Zefeng Lu**, Zhigang Wang et al.
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge"><span class="lang-zh">近期成果 2025</span><span class="lang-en">Recent Work 2025</span></div>
+<div class="paper-labels"><span class="badge">2025 IEEE DSC</span><span class="paper-rank paper-rank-ccf">CCF-C</span></div>
 
 [The Dawn of Intelligent Fuzzing: Exploring the Application of Large Language Models in Fuzzing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:roLk4NBRz8UC)
 
-Zhourui Zhang, **Zefeng Lu** et al.
+Zhourui Zhang, **Zefeng Lu**, Yanli Chen, Yuyu He, Zhigang Wang, Hui Lu, Jinghang Wu
 
 <span class="paper-topic">LLM</span> <span class="paper-topic">Fuzzing</span>
 </div>
@@ -185,7 +185,7 @@ Zhourui Zhang, **Zefeng Lu** et al.
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge">IEEE TIFS 2024</div>
+<div class="paper-labels"><span class="badge">IEEE TIFS 2024</span><span class="paper-rank paper-rank-ccf">CCF-A</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
 [Mind the Inconsistent Semantics in Positive Pairs: Semantic Aligning and Multimodal Contrastive Learning for Text-Based Pedestrian Search](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:eQOLeE2rZwMC)
 
@@ -198,7 +198,7 @@ Zhourui Zhang, **Zefeng Lu** et al.
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge">IEEE TMM 2024</div>
+<div class="paper-labels"><span class="badge">IEEE TMM 2024</span><span class="paper-rank paper-rank-ccf">CCF-A</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
 [Tri-level Modality-Information Disentanglement for Visible-Infrared Person Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:Y0pCki6q_DkC)
 
@@ -213,7 +213,7 @@ Zhourui Zhang, **Zefeng Lu** et al.
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge">IEEE TITS 2023</div>
+<div class="paper-labels"><span class="badge">IEEE TITS 2023</span><span class="paper-rank paper-rank-ccf">CCF-B</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
 [Graph-Based Progressive Fusion Network for Multi-Modality Vehicle Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:Tyk-4Ss8FVUC)
 
@@ -226,7 +226,7 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge">IEEE TIFS 2023</div>
+<div class="paper-labels"><span class="badge">IEEE TIFS 2023</span><span class="paper-rank paper-rank-ccf">CCF-A</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
 [Modality and Camera Factors Bi-Disentanglement for NIR-VIS Object Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:IjCSPb-OGe4C)
 
@@ -239,7 +239,7 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge">IEEE TITS 2023</div>
+<div class="paper-labels"><span class="badge">IEEE TITS 2023</span><span class="paper-rank paper-rank-ccf">CCF-B</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
 [Mask-Aware Pseudo Label Denoising for Unsupervised Vehicle Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:UeHWp8X0CEIC)
 
@@ -252,7 +252,7 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge">IEEE TITS 2023</div>
+<div class="paper-labels"><span class="badge">IEEE TITS 2023</span><span class="paper-rank paper-rank-ccf">CCF-B</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
 [MART: Mask-Aware Reasoning Transformer for Vehicle Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:qjMakFHDy7sC)
 
@@ -265,11 +265,11 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge"><span class="lang-zh">车辆重识别</span><span class="lang-en">Vehicle Re-ID</span></div>
+<div class="badge">Electronics Letters 2022</div>
 
 [Common Visual Part Alignment for Vehicle Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:u-x6o8ySG0sC)
 
-**Zefeng Lu** et al.
+**Zefeng Lu**, Ronghao Lin, Huahui Deng, Haifeng Hu, Zhenwu Chen
 
 <span class="paper-topic">Vehicle Re-ID</span> <span class="paper-topic">Part Alignment</span>
 </div>
@@ -278,7 +278,7 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge">IEEE TITS 2022</div>
+<div class="paper-labels"><span class="badge">IEEE TITS 2022</span><span class="paper-rank paper-rank-ccf">CCF-B</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
 [Identity-Unrelated Information Decoupling Model for Vehicle Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:d1gkVwhDpl0C)
 
