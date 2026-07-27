@@ -210,7 +210,7 @@ Zhourui Zhang, **Zefeng Lu**, Yanli Chen, Yuyu He, Zhigang Wang, Hui Lu, Jinghan
 </div>
 </div>
 
-## 2023—2022
+## 2022—2023
 
 <div class="paper-box">
 <div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Graph-Based Progressive Fusion Network for Multi-Modality Vehicle Re-Identification.gif' | relative_url }}" alt="Figure for Graph-Based Progressive Fusion Network" loading="lazy" decoding="async"></div>
