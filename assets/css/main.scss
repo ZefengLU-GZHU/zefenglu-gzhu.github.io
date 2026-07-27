@@ -524,6 +524,26 @@ body.lang-zh .paper-placeholder::after {
   box-shadow: var(--shadow);
 }
 
+.news-list {
+  margin: 1rem 0 2.4rem;
+  color: #4b5552;
+  line-height: 1.75;
+}
+
+.news-list li {
+  margin-bottom: 0.55rem;
+}
+
+.news-list em {
+  font-weight: 600;
+}
+
+.news-list a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.14em;
+}
+
 $scroll_offset: 5em;
 h1::before,
 .anchor::before {

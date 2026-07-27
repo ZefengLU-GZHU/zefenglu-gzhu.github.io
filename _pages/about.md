@@ -53,7 +53,15 @@ redirect_from:
 
 # News
 
-- **2024:** Received the Ph.D. degree from Sun Yat-sen University.
+<div class="news-list" markdown="1">
+
+- *2026.06:* Our paper entitled “[Weakly Supervised Learning Meets VIS-NIR Re-Identification: Progressive Cross-Modality Alignment for Representation Learning](https://ieeexplore.ieee.org/abstract/document/11579411/)” was accepted by IEEE TIFS.
+- *2026.03:* Our paper entitled “[Causally-Aware Hierarchical Graph Neural Networks for Robust Trajectory Prediction](https://ieeexplore.ieee.org/abstract/document/11427364/)” was accepted by IEEE TVT.
+- *2026.01:* Our paper entitled “[STAR: Spatial–Temporal Attention Reasoning Model for Dynamic Logistics Network Routing in Cyber–Physical Internet](https://www.sciencedirect.com/science/article/pii/S1474034625007232)” was accepted by Advanced Engineering Informatics (AEI).
+- *2025.09:* Congratulations to our undergraduate students! Their paper entitled “[Test-Time Adversarial Defense for Robust CLIP-driven Text-Based Person Search](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&sortby=pubdate&citation_for_view=wn7Q6h0AAAAJ:UebtZRa9Y70C),” completed under my supervision, was accepted by ICCBD+AI 2025.
+- *2024:* Received the Ph.D. degree from Sun Yat-sen University.
+
+</div>
 
 <span class="anchor" id="selected-publications"></span>
 
