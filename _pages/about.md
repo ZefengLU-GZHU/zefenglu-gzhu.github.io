@@ -103,7 +103,7 @@ Yue Yuan, Ying Wang, **Zefeng Lu**, Feng Shen, Zhiheng Zhao, George Q. Huang
 <div class="paper-box">
 <div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
 <div class="paper-box-text" markdown="1">
-<div class="badge">AEI 2026</div>
+<div class="paper-labels"><span class="badge">AEI 2026</span><span class="paper-rank paper-rank-ccf">CCF-B</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
 [STAR: Spatial–Temporal Attention Reasoning Model for Dynamic Logistics Network Routing in Cyber–Physical Internet](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:LkGwnXOMwfcC)
 
@@ -292,21 +292,32 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 
 # Honors and Awards
 
-<p class="section-placeholder">Selected honors and awards will be added here.</p>
+<div class="timeline-list honors-list">
+  <div><time>2026.06</time><p><strong>First Prize, Guangdong Provincial Science and Technology Progress Award</strong></p></div>
+  <div><time>2025.02</time><p><strong>Special Postdoctoral Qualification, The Hong Kong Polytechnic University</strong></p></div>
+  <div><time>2024.06</time><p><strong>China Scholarship Council (CSC) Scholarship</strong></p></div>
+  <div><time>2021.06</time><p><strong>Silver Award, World Intelligent Challenge</strong></p></div>
+  <div><time>2020.06</time><p><strong>Outstanding Graduate Thesis</strong></p></div>
+  <div><time>2020.06</time><p><strong>Outstanding Graduate</strong></p></div>
+  <div><time>2019.09</time><p><strong>Tencent Founder Innovation Scholarship</strong></p></div>
+</div>
 
 <span class="anchor" id="teaching"></span>
 
 # Teaching
 
-<p class="section-placeholder">Current and recent teaching information will be added here.</p>
+<ul class="teaching-list">
+  <li>Artificial Intelligence Security</li>
+  <li>Discrete Mathematics</li>
+</ul>
 
 <span class="anchor" id="experiences"></span>
 
 # Experiences
 
 <div class="timeline-list">
-  <div><time><span class="lang-zh">至今</span><span class="lang-en">Present</span></time><p><strong><span class="lang-zh">广州大学</span><span class="lang-en">Guangzhou University</span></strong><br><span class="lang-zh">副教授 · 网络空间安全学院</span><span class="lang-en">Associate Professor · School of Cyberspace Security</span></p></div>
-  <div><time><span class="lang-zh">博士后</span><span class="lang-en">Postdoctoral</span></time><p><strong><span class="lang-zh">香港理工大学</span><span class="lang-en">The Hong Kong Polytechnic University</span></strong><br><span class="lang-zh">RIAM 实验室 · 合作导师黄国全教授</span><span class="lang-en">RIAM Lab · with Prof. George Q. Huang</span></p></div>
-  <div><time><span class="lang-zh">研究助理</span><span class="lang-en">Research Assistant</span></time><p><strong><span class="lang-zh">南洋理工大学</span><span class="lang-en">Nanyang Technological University</span></strong><br><span class="lang-zh">CARTIN 实验室 · 合作导师 Yap-Peng Tan 教授</span><span class="lang-en">CARTIN Lab · with Prof. Yap-Peng Tan</span></p></div>
-  <div><time>2024</time><p><strong><span class="lang-zh">中山大学</span><span class="lang-en">Sun Yat-sen University</span></strong><br><span class="lang-zh">博士 · 导师胡海峰教授</span><span class="lang-en">Ph.D. · advised by Prof. Haifeng Hu</span></p></div>
+  <div><time>2025.11–Present</time><p><strong>Guangzhou University</strong><br>Associate Professor · School of Cyberspace Security</p></div>
+  <div><time>2024.12–2025.11</time><p><strong>The Hong Kong Polytechnic University</strong><br>Postdoctoral Fellow · RIAM Lab · with Prof. George Q. Huang</p></div>
+  <div><time>2023.11–2024.12</time><p><strong>Nanyang Technological University</strong><br>Visiting Ph.D. Student · CARTIN Lab · with Prof. Yap-Peng Tan</p></div>
+  <div><time>2020.09–2024.12</time><p><strong>Sun Yat-sen University</strong><br>Ph.D. · advised by Prof. Haifeng Hu</p></div>
 </div>
