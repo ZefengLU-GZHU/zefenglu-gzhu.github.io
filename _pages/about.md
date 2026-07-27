@@ -60,6 +60,7 @@ redirect_from:
 - *2026.01:* Our paper entitled “[STAR: Spatial–Temporal Attention Reasoning Model for Dynamic Logistics Network Routing in Cyber–Physical Internet](https://www.sciencedirect.com/science/article/pii/S1474034625007232)” was accepted by Advanced Engineering Informatics (AEI).
 - *2025.09:* Congratulations to our undergraduate students! Their paper entitled “[Test-Time Adversarial Defense for Robust CLIP-driven Text-Based Person Search](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&sortby=pubdate&citation_for_view=wn7Q6h0AAAAJ:UebtZRa9Y70C),” completed under my supervision, was accepted by ICCBD+AI 2025.
 - ***2025.07:*** Our paper entitled “[Prompt-guided Transformer and MLLM Interactive Learning for Text-Based Pedestrian Search](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:_FxGoFyzp5QC)” was accepted by IEEE TIFS.
+- ***2025.05:*** Successfully organized IPIC 2025, the ***11th International Physical Internet Conference***, themed ***“AI-empowered Physical Internet.”***
 - ***2024.12:*** Received the Ph.D. degree from Sun Yat-sen University.
 
 </div>
