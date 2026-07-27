@@ -5,14 +5,13 @@
   </div>
   <div class="author__content">
     <h3 class="author__name"><span class="lang-zh">{{ author.name }}</span><span class="lang-en">{{ author.name_en }}</span></h3>
-    <p class="author__bio"><span class="lang-zh">{{ author.bio }}</span><span class="lang-en">{{ author.bio_en }}</span></p>
+    <p class="author__bio">
+      <span class="lang-zh">{{ author.bio }}</span>
+      <span class="lang-en">Associate Professor<br>School of Cyberspace Security<br>Guangzhou University</span>
+    </p>
   </div>
   <div class="author__urls-wrapper">
     <ul class="author__urls social-icons">
-      <li class="profile-description">
-        <span class="lang-zh">{{ site.description }}</span>
-        <span class="lang-en">{{ site.description_en }}</span>
-      </li>
       <li><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span class="lang-zh">{{ author.location }}</span><span class="lang-en">{{ author.location_en }}</span></li>
       <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>
