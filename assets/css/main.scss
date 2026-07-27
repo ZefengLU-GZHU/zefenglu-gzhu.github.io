@@ -195,6 +195,38 @@ body.lang-zh .lang-en {
   line-height: 1.78;
 }
 
+.about-copy {
+  margin-bottom: 2.7rem;
+  color: #454f4c;
+  font-size: 1.04rem;
+  line-height: 1.85;
+}
+
+.about-copy p {
+  margin: 0 0 1.15rem;
+}
+
+.about-copy a {
+  color: #245a9a;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.about-copy strong {
+  color: #343d3a;
+}
+
+.about-copy .recruit-alert {
+  margin-top: 1.35rem;
+  color: #e32424;
+  font-size: 1.03rem;
+}
+
+.about-copy .recruit-alert a,
+.about-copy .recruit-alert strong {
+  color: #e32424;
+}
+
 .academic-hero,
 .hero-copy {
   position: relative;

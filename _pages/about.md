@@ -10,57 +10,50 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-<div class="hero-copy">
-  <p class="hero-kicker"><span class="lang-zh">人工智能安全 · 多模态学习</span><span class="lang-en">AI Security · Multimodal Learning</span></p>
-  <h1><span class="lang-zh">让智能系统更可靠，<br>也更值得信任。</span><span class="lang-en">Building intelligent systems<br>we can trust.</span></h1>
-</div>
+# About Me
 
-<div class="lang-zh">
-卢泽丰，博士，广州大学副教授、“人才特区”引进人才、鲁辉院长团队核心成员。2024 年博士毕业于中山大学，导师为胡海峰教授。曾在新加坡南洋理工大学 CARTIN 实验室担任研究助理，并在香港理工大学 RIAM 实验室从事博士后研究。
+<div class="about-copy">
+  <p>
+    I am an Associate Professor at the
+    <a href="https://wyy.gzhu.edu.cn/info/1160/4383.htm">School of Cyberspace Security, Guangzhou University</a>,
+    China, and a core member of the <a href="https://gzhu-binx.github.io/#/members">IDA Lab</a> led by
+    <a href="https://www.gzhu.edu.cn/info/1023/31167.htm">Prof. Zhihong Tian (田志宏)</a> and
+    <a href="https://wyy.gzhu.edu.cn/info/1036/1527.htm">Prof. Hui Lu (鲁辉)</a>. I received my Ph.D.
+    degree from Sun Yat-sen University in 2024 under the supervision of
+    <a href="https://seit.sysu.edu.cn/teacher/HuHaifeng">Prof. Haifeng Hu (胡海峰)</a>. During my doctoral
+    studies, I undertook joint doctoral training at Nanyang Technological University, where I conducted
+    research with the <a href="https://www.ntu.edu.sg/cartin">CARTIN Lab</a> under the supervision of
+    <a href="https://dr.ntu.edu.sg/entities/person/Tan-Yap-Peng">Prof. Tan Yap-Peng</a>. I subsequently
+    worked as a Postdoctoral Fellow with the <a href="https://www.polyu.edu.hk/riam/">RIAM Lab</a> at
+    The Hong Kong Polytechnic University, collaborating with
+    <a href="https://www.polyu.edu.hk/ise/people/academic-staff/george-huang/">Prof. George Q. Huang (黄国全)</a>.
+  </p>
 
-目前担任中国图象图形学学会会员、IEEE 会员，以及 IEEE TIFS、TITS、TMM、TNNLS、TIP、TCSVT、CVIU 等期刊审稿人。已在信息安全、多媒体、机器学习、智能交通与工程信息学等领域发表论文 20 余篇，获授权国家发明专利 3 项。
-</div>
+  <p>
+    My current research interests include <strong>Adversarial Attacks and Defenses for Cross-modal
+    Foundation Models</strong>, <strong>Security of Multimodal Large Language Models</strong>, and
+    <strong>Traffic Scene Perception and Understanding</strong>. I have published over 20 papers in
+    international journals and conferences, including IEEE TIFS, TMM, TNNLS, TITS, AEI, and TCSVT.
+    I have led or participated in subprojects of National Science and Technology Major Projects,
+    projects under the National Key R&amp;D Program of China, Key-Area Research and Development Program
+    projects, and the General Program and Young Scientists Fund of the National Natural Science Foundation
+    of China. I am a member of IEEE and the China Society of Image and Graphics and serve as a reviewer
+    for leading journals in information security, multimedia, machine learning, intelligent transportation,
+    and computer vision.
+  </p>
 
-<div class="lang-en">
-Zefeng Lu is an Associate Professor at Guangzhou University and a core member of Dean Hui Lu's team. He received his Ph.D. from Sun Yat-sen University in 2024 under the supervision of Prof. Haifeng Hu. He previously worked as a Research Assistant with the CARTIN Lab at Nanyang Technological University and as a Postdoctoral Fellow with the RIAM Lab at The Hong Kong Polytechnic University.
-
-He is a member of IEEE and the China Society of Image and Graphics, and serves as a reviewer for IEEE TIFS, TITS, TMM, TNNLS, TIP, TCSVT, and CVIU. He has published more than 20 papers and holds three granted Chinese invention patents.
-</div>
-
-<span class="anchor" id="research"></span>
-
-# <span class="lang-zh">研究方向</span><span class="lang-en">Research Interests</span>
-
-<div class="research-grid">
-  <div class="research-item">
-    <span>01</span>
-    <h3><span class="lang-zh">跨模态大模型对抗攻防</span><span class="lang-en">Adversarial Learning for Cross-modal Foundation Models</span></h3>
-    <p class="lang-zh">面向 CLIP 等跨模态基础模型，研究对抗攻击、防御机制与可信分析。</p>
-    <p class="lang-en">Adversarial attacks, defenses, and trustworthy analysis for CLIP-like foundation models.</p>
-  </div>
-  <div class="research-item">
-    <span>02</span>
-    <h3><span class="lang-zh">多模态大语言模型安全</span><span class="lang-en">Multimodal Large Language Model Safety</span></h3>
-    <p class="lang-zh">关注多模态大语言模型的幻觉缓解、安全对齐与可靠推理。</p>
-    <p class="lang-en">Hallucination mitigation, safety alignment, and reliable multimodal reasoning.</p>
-  </div>
-  <div class="research-item">
-    <span>03</span>
-    <h3><span class="lang-zh">智能交通与计算机视觉</span><span class="lang-en">Intelligent Transportation & Computer Vision</span></h3>
-    <p class="lang-zh">研究人员与车辆重识别、文本图像检索、三维视觉及复杂场景感知。</p>
-    <p class="lang-en">Person and vehicle re-identification, text-image retrieval, 3D vision, and perception.</p>
-  </div>
+  <p class="recruit-alert">
+    📢📢 Our group is seeking motivated undergraduate and graduate students to work on projects related to
+    <strong>AI Security, Multimodal Foundation Models, and Traffic Scene Perception and Understanding</strong>.
+    Drop me an <a href="mailto:luzefeng@gzhu.edu.cn">email</a> if you are interested.
+  </p>
 </div>
 
 <span class="anchor" id="news"></span>
 
 # News
 
-<div class="recruit-note">
-  <strong>Prospective Students</strong>
-  Students interested in AI security, computer vision, and deep learning are welcome to get in touch.
-  <a href="mailto:luzefeng@gzhu.edu.cn">luzefeng@gzhu.edu.cn</a>
-</div>
+- **2024:** Received the Ph.D. degree from Sun Yat-sen University.
 
 <span class="anchor" id="selected-publications"></span>
 
