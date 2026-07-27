@@ -170,6 +170,7 @@ body.lang-zh .lang-en {
 
 .author__bio {
   color: var(--muted);
+  font-size: 0.88rem;
   line-height: 1.65;
 }
 
@@ -183,17 +184,18 @@ body.lang-zh .lang-en {
   padding-top: 0.85rem;
   border-top: 1px solid var(--line);
   color: var(--muted);
-  font-size: 0.76rem;
-  line-height: 1.5;
+  font-size: 0.88rem;
+  line-height: 1.6;
 }
 
 .author__interests strong {
   display: block;
-  margin-bottom: 0.45rem;
+  margin-bottom: 0.55rem;
   color: var(--ink);
-  font-size: 0.75rem;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+  font-size: 0.88rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: none;
 }
 
 .author__interests ul {
@@ -202,8 +204,9 @@ body.lang-zh .lang-en {
 }
 
 .author__interests li {
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.42rem;
   font-size: inherit;
+  line-height: inherit;
 }
 
 .author__urls {
@@ -215,6 +218,12 @@ body.lang-zh .lang-en {
 
 .author__urls a {
   color: var(--ink);
+  font-size: 0.88rem;
+}
+
+.author__urls li {
+  font-size: 0.88rem;
+  line-height: 1.6;
 }
 
 .page {
