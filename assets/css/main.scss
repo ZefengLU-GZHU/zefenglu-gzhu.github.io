@@ -451,6 +451,18 @@ body.lang-zh .lang-en {
   min-height: 155px;
 }
 
+.paper-figure {
+  width: 100%;
+  min-height: 155px;
+  max-height: 210px;
+  align-self: center;
+  padding: 0.4rem;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #fff;
+  object-fit: contain;
+}
+
 .paper-placeholder {
   display: flex;
   width: 100%;

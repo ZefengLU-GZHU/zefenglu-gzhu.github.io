@@ -75,7 +75,7 @@ redirect_from:
 ## 2026
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Weakly Supervised Learning Meets VIS-NIR Re-Identification Progressive Cross-Modality Alignment for Representation Learning.gif' | relative_url }}" alt="Figure for Weakly Supervised Learning Meets VIS-NIR Re-Identification" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">IEEE TIFS 2026</span><span class="paper-rank paper-rank-ccf">CCF-A</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
@@ -88,7 +88,7 @@ redirect_from:
 </div>
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Causally-Aware Hierarchical Graph Neural.png' | relative_url }}" alt="Figure for Causally-Aware Hierarchical Graph Neural Networks for Robust Trajectory Prediction" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">IEEE TVT 2026</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
@@ -101,7 +101,7 @@ Yue Yuan, Ying Wang, **Zefeng Lu**, Feng Shen, Zhiheng Zhao, George Q. Huang
 </div>
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/STAR Spatial–Temporal Attention Reasoning Model for Dynamic Logistics Network Routing in Cyber–Physical Internet.jpg' | relative_url }}" alt="Figure for STAR: Spatial–Temporal Attention Reasoning Model" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">AEI 2026</span><span class="paper-rank paper-rank-ccf">CCF-B</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
@@ -116,7 +116,7 @@ Yue Yuan, Ying Wang, **Zefeng Lu**, Feng Shen, Zhiheng Zhao, George Q. Huang
 ## 2025
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Prompt-Guided Transformer and MLLM Interactive Learning for Text-Based Pedestrian Search.gif' | relative_url }}" alt="Figure for Prompt-guided Transformer and MLLM Interactive Learning for Text-Based Pedestrian Search" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">IEEE TIFS 2025</span><span class="paper-rank paper-rank-ccf">CCF-A</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
@@ -129,7 +129,7 @@ Yue Yuan, Ying Wang, **Zefeng Lu**, Feng Shen, Zhiheng Zhao, George Q. Huang
 </div>
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Disentangling Modality and Posture Factors Memory-Attention and Orthogonal Decomposition for Visible-Infrared Person Re-Identification.gif' | relative_url }}" alt="Figure for Disentangling Modality and Posture Factors" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">IEEE TNNLS 2025</span><span class="paper-rank paper-rank-ccf">CCF-B</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
@@ -142,7 +142,7 @@ Yue Yuan, Ying Wang, **Zefeng Lu**, Feng Shen, Zhiheng Zhao, George Q. Huang
 </div>
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Test-Time Adversarial Defense for Robust CLIP-driven Text-Based Person Search.gif' | relative_url }}" alt="Figure for Test-Time Adversarial Defense for Robust CLIP-driven Text-Based Person Search" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="badge">2025 ICCBD+ AI</div>
 
@@ -155,7 +155,7 @@ Jiaqi Feng, Yucheng Tao, Junlan Huang, Xiyu Chen, **Zefeng Lu**, Hui Lu
 </div>
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/The Pursuer of Light Exploration and Evolution of DAST Technology in XSS Vulnerability Detection.gif' | relative_url }}" alt="Figure for The Pursuer of Light" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">2025 IEEE DSC</span><span class="paper-rank paper-rank-ccf">CCF-C</span></div>
 
@@ -168,7 +168,7 @@ Youpeng Li, **Zefeng Lu**, Zhigang Wang, Yanli Chen, Yuyu He, Hui Lu
 </div>
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/The Dawn of Intelligent Fuzzing Exploring the Application of Large Language Models in Fuzzing.gif' | relative_url }}" alt="Figure for The Dawn of Intelligent Fuzzing" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">2025 IEEE DSC</span><span class="paper-rank paper-rank-ccf">CCF-C</span></div>
 
@@ -183,7 +183,7 @@ Zhourui Zhang, **Zefeng Lu**, Yanli Chen, Yuyu He, Zhigang Wang, Hui Lu, Jinghan
 ## 2024
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Mind the Inconsistent Semantics in Positive Pairs Semantic Aligning and Multimodal Contrastive Learning for Text-Based Pedestrian Search.gif' | relative_url }}" alt="Figure for Mind the Inconsistent Semantics in Positive Pairs" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">IEEE TIFS 2024</span><span class="paper-rank paper-rank-ccf">CCF-A</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
@@ -196,7 +196,7 @@ Zhourui Zhang, **Zefeng Lu**, Yanli Chen, Yuyu He, Zhigang Wang, Hui Lu, Jinghan
 </div>
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Tri-level Modality-Information Disentanglement for Visible-Infrared Person Re-Identification.gif' | relative_url }}" alt="Figure for Tri-level Modality-Information Disentanglement" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">IEEE TMM 2024</span><span class="paper-rank paper-rank-ccf">CCF-A</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
@@ -211,7 +211,7 @@ Zhourui Zhang, **Zefeng Lu**, Yanli Chen, Yuyu He, Zhigang Wang, Hui Lu, Jinghan
 ## 2023—2022
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Graph-Based Progressive Fusion Network for Multi-Modality Vehicle Re-Identification.gif' | relative_url }}" alt="Figure for Graph-Based Progressive Fusion Network" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">IEEE TITS 2023</span><span class="paper-rank paper-rank-ccf">CCF-B</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
@@ -224,7 +224,7 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 </div>
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Modality and Camera Factors Bi-Disentanglement for NIR-VIS Object Re-Identification.gif' | relative_url }}" alt="Figure for Modality and Camera Factors Bi-Disentanglement" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">IEEE TIFS 2023</span><span class="paper-rank paper-rank-ccf">CCF-A</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
@@ -237,7 +237,7 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 </div>
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Mask-Aware Pseudo Label Denoising for Unsupervised Vehicle Re-Identification.gif' | relative_url }}" alt="Figure for Mask-Aware Pseudo Label Denoising" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">IEEE TITS 2023</span><span class="paper-rank paper-rank-ccf">CCF-B</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
@@ -250,7 +250,7 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 </div>
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Mask-Aware Reasoning Transformer for Vehicle Re-Identification.gif' | relative_url }}" alt="Figure for MART: Mask-Aware Reasoning Transformer" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">IEEE TITS 2023</span><span class="paper-rank paper-rank-ccf">CCF-B</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
@@ -263,7 +263,7 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 </div>
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Common Visual Part Alignment for Vehicle Re-Identification.jpg' | relative_url }}" alt="Figure for Common Visual Part Alignment for Vehicle Re-Identification" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="badge">Electronics Letters 2022</div>
 
@@ -276,7 +276,7 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 </div>
 
 <div class="paper-box">
-<div class="paper-box-image"><div class="paper-placeholder"><span>IMAGE<br><small>待补充</small></span></div></div>
+<div class="paper-box-image"><img class="paper-figure" src="{{ '/figure/Identity-Unrelated Information Decoupling Model for Vehicle Re-Identification.gif' | relative_url }}" alt="Figure for Identity-Unrelated Information Decoupling Model" loading="lazy" decoding="async"></div>
 <div class="paper-box-text" markdown="1">
 <div class="paper-labels"><span class="badge">IEEE TITS 2022</span><span class="paper-rank paper-rank-ccf">CCF-B</span><span class="paper-rank paper-rank-jcr">JCR-Q1</span></div>
 
