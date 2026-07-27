@@ -12,6 +12,11 @@
               <a href="{{ domain }}{{ link.url }}"><span class="lang-zh">{{ link.title_zh }}</span><span class="lang-en">{{ link.title_en }}</span></a>
             </li>
           {% endfor %}
+          <li class="masthead__menu-item masthead__menu-language">
+            <a href="#" id="language-toggle" class="language-toggle" role="button" aria-label="切换至中文版">
+              <span class="lang-en">中文</span><span class="lang-zh">EN</span>
+            </a>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

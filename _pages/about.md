@@ -10,9 +10,9 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-# About Me
+# <span class="lang-en">About Me</span><span class="lang-zh">个人简介</span>
 
-<div class="about-copy">
+<div class="about-copy lang-en">
   <p>
     I am an Associate Professor at the
     <a href="https://wyy.gzhu.edu.cn/info/1160/4383.htm">School of Cyberspace Security, Guangzhou University</a>,
@@ -49,11 +49,42 @@ redirect_from:
   </p>
 </div>
 
+<div class="about-copy lang-zh">
+  <p>
+    我现任<a href="https://wyy.gzhu.edu.cn/info/1160/4383.htm">广州大学网络空间安全学院</a>副教授，
+    是 <a href="https://gzhu-binx.github.io/#/members">IDA 实验室</a>核心成员，实验室由
+    <a href="https://www.gzhu.edu.cn/info/1023/31167.htm">田志宏教授</a>和
+    <a href="https://wyy.gzhu.edu.cn/info/1036/1527.htm">鲁辉教授</a>带领。
+    2024 年于中山大学获得博士学位，导师为
+    <a href="https://seit.sysu.edu.cn/teacher/HuHaifeng">胡海峰教授</a>。
+    博士期间赴南洋理工大学开展联合培养，在
+    <a href="https://www.ntu.edu.sg/cartin">CARTIN 实验室</a>跟随
+    <a href="https://dr.ntu.edu.sg/entities/person/Tan-Yap-Peng">Tan Yap-Peng 教授</a>开展研究。
+    随后在香港理工大学 <a href="https://www.polyu.edu.hk/riam/">RIAM 实验室</a>从事博士后研究，
+    合作导师为
+    <a href="https://www.polyu.edu.hk/ise/people/academic-staff/george-huang/">George Q. Huang（黄国全）教授</a>。
+  </p>
+
+  <p>
+    我的研究方向包括<strong>跨模态基础模型的对抗攻击与防御</strong>、
+    <strong>多模态大语言模型安全</strong>以及<strong>交通场景感知与理解</strong>。
+    已在 IEEE TIFS、TMM、TNNLS、TITS、AEI 和 TCSVT 等国际期刊与会议发表论文 20 余篇。
+    主持或参与国家科技重大专项子任务、国家重点研发计划课题、重点领域研发计划项目、
+    国家自然科学基金面上项目和青年项目等。现为 IEEE 和中国图象图形学学会会员，
+    并担任信息安全、多媒体、机器学习、智能交通和计算机视觉领域多个重要期刊审稿人。
+  </p>
+
+  <p class="recruit-alert">
+    📢📢 课题组长期招收对<strong>人工智能安全、多模态基础模型及交通场景感知与理解</strong>
+    感兴趣的本科生和研究生，欢迎通过<a href="mailto:luzefeng@gzhu.edu.cn">邮件</a>联系。
+  </p>
+</div>
+
 <span class="anchor" id="news"></span>
 
-# News
+# <span class="lang-en">News</span><span class="lang-zh">最新动态</span>
 
-<div class="news-list" markdown="1">
+<div class="news-list lang-en" markdown="1">
 
 - *2026.06:* <span class="news-emoji" aria-hidden="true">🔬</span> Our paper entitled “[Weakly Supervised Learning Meets VIS-NIR Re-Identification: Progressive Cross-Modality Alignment for Representation Learning](https://ieeexplore.ieee.org/abstract/document/11579411/)” was accepted by IEEE TIFS.
 - *2026.03:* <span class="news-emoji" aria-hidden="true">🚗</span> Our paper entitled “[Causally-Aware Hierarchical Graph Neural Networks for Robust Trajectory Prediction](https://ieeexplore.ieee.org/abstract/document/11427364/)” was accepted by IEEE TVT.
@@ -65,13 +96,29 @@ redirect_from:
 
 </div>
 
+<div class="news-list lang-zh" markdown="1">
+
+- *2026.06:* <span class="news-emoji" aria-hidden="true">🔬</span> 论文《[Weakly Supervised Learning Meets VIS-NIR Re-Identification: Progressive Cross-Modality Alignment for Representation Learning](https://ieeexplore.ieee.org/abstract/document/11579411/)》被 IEEE TIFS 接收。
+- *2026.03:* <span class="news-emoji" aria-hidden="true">🚗</span> 论文《[Causally-Aware Hierarchical Graph Neural Networks for Robust Trajectory Prediction](https://ieeexplore.ieee.org/abstract/document/11427364/)》被 IEEE TVT 接收。
+- *2026.01:* <span class="news-emoji" aria-hidden="true">🚀</span> 论文《[STAR: Spatial–Temporal Attention Reasoning Model for Dynamic Logistics Network Routing in Cyber–Physical Internet](https://www.sciencedirect.com/science/article/pii/S1474034625007232)》被 Advanced Engineering Informatics（AEI）接收。
+- *2025.09:* <span class="news-emoji" aria-hidden="true">👏</span> 恭喜指导的本科生！他们完成的论文《[Test-Time Adversarial Defense for Robust CLIP-driven Text-Based Person Search](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wn7Q6h0AAAAJ&sortby=pubdate&citation_for_view=wn7Q6h0AAAAJ:UebtZRa9Y70C)》被 ICCBD+AI 2025 接收。
+- ***2025.07:*** <span class="news-emoji" aria-hidden="true">🎉</span> 论文《[Prompt-guided Transformer and MLLM Interactive Learning for Text-Based Pedestrian Search](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=wn7Q6h0AAAAJ&citation_for_view=wn7Q6h0AAAAJ:_FxGoFyzp5QC)》被 IEEE TIFS 接收。
+- ***2025.05:*** <span class="news-emoji" aria-hidden="true">🌐</span> 成功举办 IPIC 2025——第 11 届国际物理互联网大会，会议主题为***“人工智能赋能的物理互联网”***。
+- ***2024.12:*** <span class="news-emoji" aria-hidden="true">🎓</span> 获得中山大学博士学位。
+
+</div>
+
 <span class="anchor" id="selected-publications"></span>
 
-# Selected Publications
+# <span class="lang-en">Selected Publications</span><span class="lang-zh">代表性论文</span>
 
-<p class="publication-lead">
-  Ordered by the latest publication date on Google Scholar. Click a title for details; paper images will be added later.
+<p class="publication-lead lang-en">
+  Ordered by the latest publication date on Google Scholar. Click a title for details.
   <a href="https://scholar.google.com/citations?user=wn7Q6h0AAAAJ&hl=en&view_op=list_works&sortby=pubdate">Google Scholar ↗</a>
+</p>
+<p class="publication-lead lang-zh">
+  按谷歌学术中的最新发表时间排序，点击论文标题可查看详情。
+  <a href="https://scholar.google.com/citations?user=wn7Q6h0AAAAJ&hl=zh-CN&view_op=list_works&sortby=pubdate">谷歌学术 ↗</a>
 </p>
 
 ## 2026
@@ -292,9 +339,9 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 
 <span class="anchor" id="honors-and-awards"></span>
 
-# Honors and Awards
+# <span class="lang-en">Honors and Awards</span><span class="lang-zh">荣誉与奖励</span>
 
-<div class="timeline-list honors-list">
+<div class="timeline-list honors-list lang-en">
   <div><time>2026.06</time><p><strong>First Prize, Guangdong Provincial Science and Technology Progress Award</strong></p></div>
   <div><time>2025.02</time><p><strong>Special Postdoctoral Qualification, The Hong Kong Polytechnic University</strong></p></div>
   <div><time>2024.06</time><p><strong>China Scholarship Council (CSC) Scholarship</strong></p></div>
@@ -304,22 +351,43 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
   <div><time>2019.09</time><p><strong>Tencent Founder Innovation Scholarship</strong></p></div>
 </div>
 
+<div class="timeline-list honors-list lang-zh">
+  <div><time>2026.06</time><p><strong>广东省科技进步一等奖</strong></p></div>
+  <div><time>2025.02</time><p><strong>香港理工大学博后特别资质</strong></p></div>
+  <div><time>2024.06</time><p><strong>国家留学基金委资助</strong></p></div>
+  <div><time>2021.06</time><p><strong>世界智能挑战赛银奖</strong></p></div>
+  <div><time>2020.06</time><p><strong>研究生优秀毕业论文</strong></p></div>
+  <div><time>2020.06</time><p><strong>优秀毕业生</strong></p></div>
+  <div><time>2019.09</time><p><strong>腾讯创始人创新奖学金</strong></p></div>
+</div>
+
 <span class="anchor" id="teaching"></span>
 
-# Teaching
+# <span class="lang-en">Teaching</span><span class="lang-zh">教学</span>
 
-<ul class="teaching-list">
+<ul class="teaching-list lang-en">
   <li>Artificial Intelligence Security</li>
   <li>Discrete Mathematics</li>
+</ul>
+<ul class="teaching-list lang-zh">
+  <li>人工智能安全</li>
+  <li>离散数学</li>
 </ul>
 
 <span class="anchor" id="experiences"></span>
 
-# Experiences
+# <span class="lang-en">Experiences</span><span class="lang-zh">个人经历</span>
 
-<div class="timeline-list">
+<div class="timeline-list lang-en">
   <div><time>2025.11–Present</time><p><strong>Guangzhou University</strong><br>Associate Professor · School of Cyberspace Security</p></div>
   <div><time>2024.12–2025.11</time><p><strong>The Hong Kong Polytechnic University</strong><br>Postdoctoral Fellow · RIAM Lab · with Prof. George Q. Huang</p></div>
   <div><time>2023.11–2024.12</time><p><strong>Nanyang Technological University</strong><br>Visiting Ph.D. Student · CARTIN Lab · with Prof. Yap-Peng Tan</p></div>
   <div><time>2020.09–2024.12</time><p><strong>Sun Yat-sen University</strong><br>Ph.D. · advised by Prof. Haifeng Hu</p></div>
+</div>
+
+<div class="timeline-list lang-zh">
+  <div><time>2025.11–至今</time><p><strong>广州大学</strong><br>副教授 · 网络空间安全学院</p></div>
+  <div><time>2024.12–2025.11</time><p><strong>香港理工大学</strong><br>博士后 · RIAM 实验室 · 合作导师 George Q. Huang（黄国全）教授</p></div>
+  <div><time>2023.11–2024.12</time><p><strong>南洋理工大学</strong><br>联合培养博士生 · CARTIN 实验室 · 导师 Tan Yap-Peng 教授</p></div>
+  <div><time>2020.09–2024.12</time><p><strong>中山大学</strong><br>博士 · 导师胡海峰教授</p></div>
 </div>
