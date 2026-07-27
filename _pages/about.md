@@ -27,13 +27,6 @@ Zefeng Lu is an Associate Professor at Guangzhou University and a core member of
 He is a member of IEEE and the China Society of Image and Graphics, and serves as a reviewer for IEEE TIFS, TITS, TMM, TNNLS, TIP, TCSVT, and CVIU. He has published more than 20 papers and holds three granted Chinese invention patents.
 </div>
 
-<div class="recruit-note">
-  <strong><span class="lang-zh">招生信息</span><span class="lang-en">Prospective Students</span></strong>
-  <span class="lang-zh">欢迎对人工智能安全、计算机视觉与深度学习感兴趣的同学联系加入团队。</span>
-  <span class="lang-en">Students interested in AI security, computer vision, and deep learning are welcome to get in touch.</span>
-  <a href="mailto:luzefeng@gzhu.edu.cn">luzefeng@gzhu.edu.cn</a>
-</div>
-
 <span class="anchor" id="research"></span>
 
 # <span class="lang-zh">研究方向</span><span class="lang-en">Research Interests</span>
@@ -59,13 +52,22 @@ He is a member of IEEE and the China Society of Image and Graphics, and serves a
   </div>
 </div>
 
-<span class="anchor" id="publications"></span>
+<span class="anchor" id="news"></span>
 
-# <span class="lang-zh">论文发表</span><span class="lang-en">Publications</span>
+# News
+
+<div class="recruit-note">
+  <strong>Prospective Students</strong>
+  Students interested in AI security, computer vision, and deep learning are welcome to get in touch.
+  <a href="mailto:luzefeng@gzhu.edu.cn">luzefeng@gzhu.edu.cn</a>
+</div>
+
+<span class="anchor" id="selected-publications"></span>
+
+# Selected Publications
 
 <p class="publication-lead">
-  <span class="lang-zh">按 Google Scholar 最新发表时间排列。点击论文题目可查看详情；配图将在后续补充。</span>
-  <span class="lang-en">Ordered by the latest publication date on Google Scholar. Click a title for details; paper images will be added later.</span>
+  Ordered by the latest publication date on Google Scholar. Click a title for details; paper images will be added later.
   <a href="https://scholar.google.com/citations?user=wn7Q6h0AAAAJ&hl=en&view_op=list_works&sortby=pubdate">Google Scholar ↗</a>
 </p>
 
@@ -285,24 +287,25 @@ Qiaolin He, **Zefeng Lu**, Zihan Wang, Haifeng Hu
 </div>
 </div>
 
-<span class="anchor" id="experience"></span>
+<span class="anchor" id="honors-and-awards"></span>
 
-# <span class="lang-zh">学术经历</span><span class="lang-en">Experience</span>
+# Honors and Awards
+
+<p class="section-placeholder">Selected honors and awards will be added here.</p>
+
+<span class="anchor" id="teaching"></span>
+
+# Teaching
+
+<p class="section-placeholder">Current and recent teaching information will be added here.</p>
+
+<span class="anchor" id="experiences"></span>
+
+# Experiences
 
 <div class="timeline-list">
   <div><time><span class="lang-zh">至今</span><span class="lang-en">Present</span></time><p><strong><span class="lang-zh">广州大学</span><span class="lang-en">Guangzhou University</span></strong><br><span class="lang-zh">副教授 · 网络空间安全学院</span><span class="lang-en">Associate Professor · School of Cyberspace Security</span></p></div>
   <div><time><span class="lang-zh">博士后</span><span class="lang-en">Postdoctoral</span></time><p><strong><span class="lang-zh">香港理工大学</span><span class="lang-en">The Hong Kong Polytechnic University</span></strong><br><span class="lang-zh">RIAM 实验室 · 合作导师黄国全教授</span><span class="lang-en">RIAM Lab · with Prof. George Q. Huang</span></p></div>
   <div><time><span class="lang-zh">研究助理</span><span class="lang-en">Research Assistant</span></time><p><strong><span class="lang-zh">南洋理工大学</span><span class="lang-en">Nanyang Technological University</span></strong><br><span class="lang-zh">CARTIN 实验室 · 合作导师 Yap-Peng Tan 教授</span><span class="lang-en">CARTIN Lab · with Prof. Yap-Peng Tan</span></p></div>
   <div><time>2024</time><p><strong><span class="lang-zh">中山大学</span><span class="lang-en">Sun Yat-sen University</span></strong><br><span class="lang-zh">博士 · 导师胡海峰教授</span><span class="lang-en">Ph.D. · advised by Prof. Haifeng Hu</span></p></div>
-</div>
-
-<span class="anchor" id="contact"></span>
-
-# <span class="lang-zh">招生与联系</span><span class="lang-en">Students & Contact</span>
-
-<div class="contact-panel">
-  <h2><span class="lang-zh">期待与你一起探索可信人工智能。</span><span class="lang-en">Let’s explore trustworthy AI together.</span></h2>
-  <p class="lang-zh">欢迎对人工智能安全、计算机视觉和深度学习感兴趣的本科生、研究生联系。</p>
-  <p class="lang-en">Undergraduate and graduate students interested in AI security, computer vision, and deep learning are welcome to contact me.</p>
-  <a href="mailto:luzefeng@gzhu.edu.cn">luzefeng@gzhu.edu.cn →</a>
 </div>

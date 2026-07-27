@@ -279,6 +279,15 @@ body.lang-zh .lang-en {
   color: #28554b;
 }
 
+.section-placeholder {
+  margin: 1rem 0 2rem;
+  padding: 1rem 1.2rem;
+  border: 1px dashed #c7dcd5;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.72);
+  color: var(--muted);
+}
+
 .research-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
