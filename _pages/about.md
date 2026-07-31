@@ -86,6 +86,7 @@ redirect_from:
 
 <div class="news-list lang-en" markdown="1">
 
+- ***2026.06:*** <span class="news-emoji" aria-hidden="true">🏆</span> Our team received the First Prize of the Guangdong Provincial Science and Technology Progress Award!
 - *2026.06:* <span class="news-emoji" aria-hidden="true">🔬</span> Our paper entitled “[Weakly Supervised Learning Meets VIS-NIR Re-Identification: Progressive Cross-Modality Alignment for Representation Learning](https://ieeexplore.ieee.org/abstract/document/11579411/)” was accepted by IEEE TIFS.
 - *2026.03:* <span class="news-emoji" aria-hidden="true">🚗</span> Our paper entitled “[Causally-Aware Hierarchical Graph Neural Networks for Robust Trajectory Prediction](https://ieeexplore.ieee.org/abstract/document/11427364/)” was accepted by IEEE TVT.
 - *2026.01:* <span class="news-emoji" aria-hidden="true">🚀</span> Our paper entitled “[STAR: Spatial–Temporal Attention Reasoning Model for Dynamic Logistics Network Routing in Cyber–Physical Internet](https://www.sciencedirect.com/science/article/pii/S1474034625007232)” was accepted by Advanced Engineering Informatics (AEI).
@@ -98,6 +99,7 @@ redirect_from:
 
 <div class="news-list lang-zh" markdown="1">
 
+- ***2026.06:*** <span class="news-emoji" aria-hidden="true">🏆</span> 团队获得广东省科技进步一等奖！
 - *2026.06:* <span class="news-emoji" aria-hidden="true">🔬</span> 论文《[Weakly Supervised Learning Meets VIS-NIR Re-Identification: Progressive Cross-Modality Alignment for Representation Learning](https://ieeexplore.ieee.org/abstract/document/11579411/)》被 IEEE TIFS 接收。
 - *2026.03:* <span class="news-emoji" aria-hidden="true">🚗</span> 论文《[Causally-Aware Hierarchical Graph Neural Networks for Robust Trajectory Prediction](https://ieeexplore.ieee.org/abstract/document/11427364/)》被 IEEE TVT 接收。
 - *2026.01:* <span class="news-emoji" aria-hidden="true">🚀</span> 论文《[STAR: Spatial–Temporal Attention Reasoning Model for Dynamic Logistics Network Routing in Cyber–Physical Internet](https://www.sciencedirect.com/science/article/pii/S1474034625007232)》被 Advanced Engineering Informatics（AEI）接收。
