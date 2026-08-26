@@ -86,6 +86,7 @@ redirect_from:
 
 <div class="news-list lang-en" markdown="1">
 
+- ***2026.08:*** <span class="news-emoji" aria-hidden="true">🎉</span> My application for the Young Scientists Fund of the National Natural Science Foundation of China was approved!
 - ***2026.06:*** <span class="news-emoji" aria-hidden="true">🏆</span> Our team received the First Prize of the Guangdong Provincial Science and Technology Progress Award!
 - *2026.06:* <span class="news-emoji" aria-hidden="true">🔬</span> Our paper entitled “[Weakly Supervised Learning Meets VIS-NIR Re-Identification: Progressive Cross-Modality Alignment for Representation Learning](https://ieeexplore.ieee.org/abstract/document/11579411/)” was accepted by IEEE TIFS.
 - *2026.03:* <span class="news-emoji" aria-hidden="true">🚗</span> Our paper entitled “[Causally-Aware Hierarchical Graph Neural Networks for Robust Trajectory Prediction](https://ieeexplore.ieee.org/abstract/document/11427364/)” was accepted by IEEE TVT.
@@ -99,6 +100,7 @@ redirect_from:
 
 <div class="news-list lang-zh" markdown="1">
 
+- ***2026.08:*** <span class="news-emoji" aria-hidden="true">🎉</span> 我的国家自然科学基金青年项目获批！
 - ***2026.06:*** <span class="news-emoji" aria-hidden="true">🏆</span> 团队获得广东省科技进步一等奖！
 - *2026.06:* <span class="news-emoji" aria-hidden="true">🔬</span> 论文《[Weakly Supervised Learning Meets VIS-NIR Re-Identification: Progressive Cross-Modality Alignment for Representation Learning](https://ieeexplore.ieee.org/abstract/document/11579411/)》被 IEEE TIFS 接收。
 - *2026.03:* <span class="news-emoji" aria-hidden="true">🚗</span> 论文《[Causally-Aware Hierarchical Graph Neural Networks for Robust Trajectory Prediction](https://ieeexplore.ieee.org/abstract/document/11427364/)》被 IEEE TVT 接收。
