@@ -86,6 +86,7 @@ redirect_from:
 
 <div class="news-list lang-en" markdown="1">
 
+- ***2026.11:*** <span class="news-emoji" aria-hidden="true">📝</span> Serving as a **Guest Editor** for the **Applied System Innovation** (JCR Q1) Special Issue, “Multimodal Machine Learning for Intelligent Systems: Methods and Applications.” Submissions of relevant work are welcome!
 - ***2026.11:*** <span class="news-emoji" aria-hidden="true">🛡️</span> Our paper entitled “MROP: Facilitating ROP-Migration for Linux Kernel Vulnerability Assessment” was published in IEEE Internet of Things Journal.
 - ***2026.10:*** <span class="news-emoji" aria-hidden="true">🎤</span> Serving as **Chair** of Workshop 11, “Large Language Models and Cyberspace Security,” at IEEE ICCBD+AI 2026.
 - ***2026.08:*** <span class="news-emoji" aria-hidden="true">🎉</span> My application for the Young Scientists Fund of the National Natural Science Foundation of China was approved!
@@ -102,6 +103,7 @@ redirect_from:
 
 <div class="news-list lang-zh" markdown="1">
 
+- ***2026.11:*** <span class="news-emoji" aria-hidden="true">📝</span> 担任《**Applied System Innovation**》期刊（JCR Q1）特刊“Multimodal Machine Learning for Intelligent Systems: Methods and Applications”**客座编辑**，欢迎相关工作投稿！
 - ***2026.11:*** <span class="news-emoji" aria-hidden="true">🛡️</span> 论文《MROP: Facilitating ROP-Migration for Linux Kernel Vulnerability Assessment》发表于 IEEE Internet of Things Journal。
 - ***2026.10:*** <span class="news-emoji" aria-hidden="true">🎤</span> 担任 IEEE ICCBD+AI 2026 Workshop 11“大语言模型与网络空间安全”**主席（Chair）**。
 - ***2026.08:*** <span class="news-emoji" aria-hidden="true">🎉</span> 我的国家自然科学基金青年项目获批！
